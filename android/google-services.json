@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133021269704",
+    "project_id": "ppcapp-c0544",
+    "storage_bucket": "ppcapp-c0544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133021269704:android:96bdb430eaf7b6323a2ffd",
+        "android_client_info": {
+          "package_name": "com.abg.food_delivery_template_deliv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133021269704-gihqchq33sjvffc3h5gjj9p7q2l5j864.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ktZv1gHGngoaqWeBOStTpD0QfBBFgDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133021269704-gihqchq33sjvffc3h5gjj9p7q2l5j864.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
